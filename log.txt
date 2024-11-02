@@ -1,0 +1,13 @@
+Test-5. check if we get a proper Status Code We supposed to get status code 404 because were sending a non-existing path of the urlio.restassured.internal.RestAssuredResponseImpl@14379273
+404
+Test-4. check if we get a single comment of the third user and validate his email addressio.restassured.internal.RestAssuredResponseImpl@79b08632
+200
+Nikita@garfield.biz
+Test-3. check if id in ascendingio.restassured.internal.RestAssuredResponseImpl@4af45442
+200
+Test-2. check if there are any body text duplicatesio.restassured.internal.RestAssuredResponseImpl@7f93dd4e
+200
+Test-1. check if there are any empty titlesio.restassured.internal.RestAssuredResponseImpl@1cf0cacc
+200
+
+Test finished successfully. No Failures Found
